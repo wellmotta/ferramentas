@@ -18,6 +18,6 @@
 - [SimpLESS](http://wearekiss.com/simpless) - Win/Mac
 - [Source Tree](http://www.sourcetreeapp.com/) - Mac
 - [Sublime Text](http://www.sublimetext.com/)  - Cross-platform
-- [Vim/Vi] (http://www.vim.org)
+- [Vim/Vi](http://www.vim.org)
 - [WinLESS](http://winless.org/) - Win
 - [WebStorm](https://www.jetbrains.com/webstorm/) - Cross-platform
