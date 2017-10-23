@@ -57,6 +57,7 @@ Ferramentas para ajudar no seu Workflow.
 
 ## Online Editors
 - [Code Pen](http://codepen.io/)
+- [Code Sandbox](https://codesandbox.io/)
 - [CSS Deck](http://cssdeck.com)
 - [Dabblet](http://dabblet.com/)
 - [JS Fiddle](http://jsfiddle.net)
@@ -66,6 +67,7 @@ Ferramentas para ajudar no seu Workflow.
 - [PHP Bin](http://phpbin.net/)
 - [Require Bin](http://requirebin.com/)
 - [Sass Meister](http://sassmeister.com/)
+- [StackBlitz](https://stackblitz.com)
 
 ## Version Control
 - [Node GH](http://nodegh.io/)
