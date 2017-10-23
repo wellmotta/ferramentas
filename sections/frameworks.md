@@ -46,7 +46,7 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [Meteor](http://meteor.com/)
 - [Montage JS](http://montagejs.org/)
 - [No Backend](http://nobackend.org/)
-- [React] (http://facebook.github.io/react/)
+- [React](https://facebook.github.io/react/)
 
 ## Back-End
 
@@ -64,7 +64,7 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [Django](https://www.djangoproject.com)
 - [Flask](http://flask.pocoo.org)
 - [Pyramid](http://docs.pylonsproject.org/en/latest/)
-- [Tornado] (http://www.tornadoweb.org/en/stable/)
+- [Tornado](http://www.tornadoweb.org/en/stable/)
 - [Web2py](http://www.web2py.com)
 
 ### WordPress
