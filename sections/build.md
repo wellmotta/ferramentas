@@ -70,6 +70,7 @@ Ferramentas para ajudar no seu Workflow.
 - [PHP Bin](http://phpbin.net/)
 - [Require Bin](http://requirebin.com/)
 - [Sass Meister](http://sassmeister.com/)
+- [Sencha Fiddle](https://fiddle.sencha.com)
 - [StackBlitz](https://stackblitz.com)
 - [Thimble](https://thimble.mozilla.org)
 
