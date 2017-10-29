@@ -71,6 +71,7 @@ Ferramentas para ajudar no seu Workflow.
 - [Require Bin](http://requirebin.com/)
 - [Sass Meister](http://sassmeister.com/)
 - [StackBlitz](https://stackblitz.com)
+- [Thimble](https://thimble.mozilla.org)
 
 ## Version Control
 - [Node GH](http://nodegh.io/)
