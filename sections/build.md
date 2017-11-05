@@ -66,6 +66,7 @@ Ferramentas para ajudar no seu Workflow.
 - [LiveGap](http://editor.livegap.com/)
 - [Liveweave](https://liveweave.com/)
 - [Paste Bin](http://pastebin.com)
+- [PlayCode](http://playcode.io/)
 - [Plunker](http://plnkr.co)
 - [PHP Bin](http://phpbin.net/)
 - [Require Bin](http://requirebin.com/)
